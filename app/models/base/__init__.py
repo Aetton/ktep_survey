@@ -1,0 +1,1 @@
+from app.models.base._base_model import BaseModel

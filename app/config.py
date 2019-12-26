@@ -1,0 +1,5 @@
+DB_NAME = 'ktep'
+DB_USERNAME = 'postgres'
+DB_PASSWORD = '123'
+DB_HOST = 'localhost'
+DB_PORT = '5432'

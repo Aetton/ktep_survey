@@ -1,0 +1,13 @@
+extends base.jade
+
+block content
+    div.container
+        div.row
+            div.col-md-8
+                for article in articles
+                    div.card
+                        div.card-body
+                            h2.card-title
+                                = article.title
+                            p.card-text
+                                = article.body
